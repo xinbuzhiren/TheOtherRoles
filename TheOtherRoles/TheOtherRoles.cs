@@ -49,7 +49,7 @@ namespace TheOtherRoles
             Arsonist.clearAndReload();
             Guesser.clearAndReload();
             BountyHunter.clearAndReload();
-            Vulture.clearAndReload();
+            紫辰.clearAndReload();
             Medium.clearAndReload();
             Lawyer.clearAndReload();
             Pursuer.clearAndReload();
